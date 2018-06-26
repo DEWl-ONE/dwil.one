@@ -1,12 +1,14 @@
 /*------------------------home------------------------*/
 .post-preview {
-    margin-top: 30px;
+    margin-top: 10px;
     border-radius: 2px;
-    padding: 25px;
+    padding: 5px;
     border-bottom: 1px solid rgb(238, 238, 238);
+    background-color: #00b3ee;
 }
 
 .layout-bottom {
+    background-color: #0000fe;
     display: flex;
     flex-flow: row;
 }
@@ -17,7 +19,7 @@
 }
 
 .post-title {
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .post-meta {
@@ -42,6 +44,12 @@
     border-radius: 50%;
 }
 
+.post-date {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: row;
+}
+
 
 .post-content-container {
     flex: 1;
@@ -59,5 +67,5 @@
 .post-excerpt {
     flex: 1;
     margin: 0 0 0 25px;
-    color: rgb(163, 163, 163);
+    color: rgb(163, 163, 168);
 }
