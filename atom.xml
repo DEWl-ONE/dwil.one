@@ -1,41 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DWIL-ONE 的博客</title>
+  <title>DWIL-ONE 的笔记</title>
   
-  <subtitle>喜欢 -&gt;  旅行 宅 看动漫 看电影</subtitle>
+  <subtitle>旅行 宅 看动漫 看电影 听音乐 唱歌</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dwilone.github.io/"/>
-  <updated>2018-06-21T08:16:39.000Z</updated>
+  <updated>2018-06-25T08:24:47.000Z</updated>
   <id>https://dwilone.github.io/</id>
   
   <author>
-    <name>Yidong Liu</name>
+    <name>DWIL-ONE</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>new post</title>
-    <link href="https://dwilone.github.io/2018/06/21/new-post/"/>
-    <id>https://dwilone.github.io/2018/06/21/new-post/</id>
-    <published>2018-06-21T08:16:39.000Z</published>
-    <updated>2018-06-21T08:16:39.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title></title>
-    <link href="https://dwilone.github.io/2018/06/21/my_new_post/"/>
-    <id>https://dwilone.github.io/2018/06/21/my_new_post/</id>
-    <published>2018-06-21T08:13:32.000Z</published>
-    <updated>2018-06-22T02:52:01.000Z</updated>
+    <link href="https://dwilone.github.io/2018/06/25/my_new_post/"/>
+    <id>https://dwilone.github.io/2018/06/25/my_new_post/</id>
+    <published>2018-06-25T08:24:47.000Z</published>
+    <updated>2018-06-25T08:24:47.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="MarkDown-练习"><a href="#MarkDown-练习" class="headerlink" title="MarkDown 练习"></a>MarkDown 练习</h1><h2 id="dafa发啊分隔符"><a href="#dafa发啊分隔符" class="headerlink" title="dafa发啊分隔符"></a>dafa发啊分隔符</h2><h3 id="啊发放"><a href="#啊发放" class="headerlink" title="啊发放"></a>啊发放</h3><h4 id="afa"><a href="#afa" class="headerlink" title="afa"></a>afa</h4><h5 id="fafa"><a href="#fafa" class="headerlink" title="fafa"></a>fafa</h5><h6 id="faf"><a href="#faf" class="headerlink" title="faf"></a>faf</h6><p><strong><em>fafa</em></strong></p><p><em>fafa</em></p><p><em>fafa</em></p><p><strong>fafa</strong></p><ol><li>fafa</li><li>fafa</li><li></li></ol>]]></content>
     
@@ -45,6 +31,20 @@
       
         &lt;h1 id=&quot;MarkDown-练习&quot;&gt;&lt;a href=&quot;#MarkDown-练习&quot; class=&quot;headerlink&quot; title=&quot;MarkDown 练习&quot;&gt;&lt;/a&gt;MarkDown 练习&lt;/h1&gt;&lt;h2 id=&quot;dafa发啊分隔符&quot;&gt;&lt;a href=&quot;#dafa发啊分隔
       
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new post</title>
+    <link href="https://dwilone.github.io/2018/06/21/new-post/"/>
+    <id>https://dwilone.github.io/2018/06/21/new-post/</id>
+    <published>2018-06-21T08:16:39.000Z</published>
+    <updated>2018-06-21T08:16:39.000Z</updated>
+    
+    <summary type="html">
     
     </summary>
     
