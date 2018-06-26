@@ -102,7 +102,7 @@ a:focus, a.active {
        */
     font-family: -apple-system, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height: 1.7;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.1;
     display: block;
     font-weight: 300;
@@ -456,6 +456,7 @@ footer .copyright a:focus {
     border-color: white;
     background-color: rgba(255, 255, 255, 0.4);
     text-decoration: none;
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -492,6 +493,13 @@ footer .copyright a:focus {
 .pager li > a {
     border-radius: 999em;
 }
+
+
+/*-----------------------介绍widget------------------------*/
+.shortAbout {
+    padding-left: 40px;
+}
+
 
 /*-----------------------分类widget------------------------*/
 
@@ -564,7 +572,7 @@ footer .copyright a:focus {
     background: #ccc;
     padding: 2px 5px;
     margin: 2px;
-    border-radius: 2px;
+    border-radius: 12px;
 }
 
 .tagWidget a:hover, .tagWidget a.active {

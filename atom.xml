@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dwilone.github.io/"/>
-  <updated>2018-06-26T06:45:29.000Z</updated>
+  <updated>2018-06-26T08:58:00.000Z</updated>
   <id>https://dwilone.github.io/</id>
   
   <author>
@@ -17,11 +17,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello Wor</title>
+    <link href="https://dwilone.github.io/2018/06/26/hello-world/"/>
+    <id>https://dwilone.github.io/2018/06/26/hello-world/</id>
+    <published>2018-06-26T08:58:00.000Z</published>
+    <updated>2018-06-26T08:58:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="其他" scheme="https://dwilone.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="测试" scheme="https://dwilone.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>动漫</title>
+    <link href="https://dwilone.github.io/2018/06/26/%E5%8A%A8%E6%BC%AB/"/>
+    <id>https://dwilone.github.io/2018/06/26/动漫/</id>
+    <published>2018-06-26T08:51:41.000Z</published>
+    <updated>2018-06-26T08:52:07.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="动漫" scheme="https://dwilone.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MarkDown 练习</title>
     <link href="https://dwilone.github.io/2018/06/26/my_new_post/"/>
     <id>https://dwilone.github.io/2018/06/26/my_new_post/</id>
-    <published>2018-06-26T06:45:29.000Z</published>
-    <updated>2018-06-26T06:45:29.000Z</updated>
+    <published>2018-06-26T08:49:41.000Z</published>
+    <updated>2018-06-26T08:49:41.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="MarkDown-练习"><a href="#MarkDown-练习" class="headerlink" title="MarkDown 练习"></a>MarkDown 练习</h1><h2 id="dafa发啊分隔符"><a href="#dafa发啊分隔符" class="headerlink" title="dafa发啊分隔符"></a>dafa发啊分隔符</h2><h3 id="啊发放"><a href="#啊发放" class="headerlink" title="啊发放"></a>啊发放</h3><h4 id="afa"><a href="#afa" class="headerlink" title="afa"></a>afa</h4><h5 id="fafa"><a href="#fafa" class="headerlink" title="fafa"></a>fafa</h5><h6 id="faf"><a href="#faf" class="headerlink" title="faf"></a>faf</h6><p><strong><em>fafa</em></strong></p><p><em>fafa</em></p><p><em>fafa</em></p><p><strong>fafa</strong></p><ol><li>fafa</li><li>fafa</li><li></li></ol>]]></content>
     
@@ -35,26 +76,7 @@
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello Wor</title>
-    <link href="https://dwilone.github.io/2018/06/26/hello-world/"/>
-    <id>https://dwilone.github.io/2018/06/26/hello-world/</id>
-    <published>2018-06-26T06:11:48.000Z</published>
-    <updated>2018-06-26T06:11:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="奇技" scheme="https://dwilone.github.io/tags/%E5%A5%87%E6%8A%80/"/>
     
   </entry>
   

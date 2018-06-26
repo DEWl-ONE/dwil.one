@@ -4,11 +4,10 @@
     border-radius: 2px;
     padding: 5px;
     border-bottom: 1px solid rgb(238, 238, 238);
-    background-color: #00b3ee;
+
 }
 
 .layout-bottom {
-    background-color: #0000fe;
     display: flex;
     flex-flow: row;
 }
@@ -24,13 +23,17 @@
 
 .post-meta {
     float: right;
+     font-family :Lora,'Times New Roman',serif;
+    color: grey;
+    font-size: 16px;
     margin-right: 110px;
 }
 
 .post-author {
     text-align: center;
-    margin-left: 40px;
-    margin-right: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    color: rgb(230, 97, 140);
 }
 
 .post-author h5 {
@@ -57,6 +60,7 @@
 
 .post-content {
     display: flex;
+    font-size: 20px;
 }
 
 .post-header-img {
@@ -67,5 +71,7 @@
 .post-excerpt {
     flex: 1;
     margin: 0 0 0 25px;
-    color: rgb(163, 163, 168);
+    font-style: italic;
+    color: #515151;
+    font-size: 20px;
 }
